@@ -1,5 +1,5 @@
 # joystick
-[Freenove project 12](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi) tutorial extension
+[Freenove project 12](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/tree/master/Code/C_Code/12.1.1_Joystick) tutorial extension
 
 # Usage
 Build client on your machine:
