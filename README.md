@@ -1,5 +1,5 @@
 # joystick
-Raspberry pi controller using networking
+[Freenove project 12](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi) tutorial extension
 
 # Usage
 Build client on your machine:
